@@ -16,8 +16,8 @@ Feature: US02:Como usuario, quiero que las personas vinculadas a mi perfil pueda
     Then el sistema me mostrará un mensaje afirmando que el perfil del usuario a vincular no existe.
 
     Example: 
-    |         Contacto a añadir               |                                  Mensaje                                            |
-    |         Esteban Ezequiel                |           Este contacto no posee una cuenta registrada en BackApp                   |
+    |         Contacto a añadir               |                                  Mensaje                                    |
+    |         Esteban Ezequiel                |           Este contacto no posee una cuenta registrada en BackApp           |
 
 
 
